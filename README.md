@@ -29,7 +29,7 @@ Python 3.9+
 Jupyter Notebook / JupyterLab
 
 Installation
-git clone https://github.com/Faik442/Sentiment-Faik.git
+git clone https://github.com/Faik442/nlp-sentiment-demo.git
 cd Sentiment-Faik
 
 pip install -r requirements.txt
